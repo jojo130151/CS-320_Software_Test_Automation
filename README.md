@@ -13,5 +13,5 @@ How do I interpret user needs and incorporate them into a program?
 
 How do I approach designing software?
 
-- I start with the obect classes and set the constructor, getters, and setters. I then switch to working on the classes that use these objects for their functions. If during the work on these classes, I need to work on the object classes and tweak them then I'll go back. I just like setting the building foundational blocks first. It also helps when coding the function classes that the object that it is using is already in place so that errors are more clear y not being constantly thrown by the lack of an established object class.
+- I start with the obect classes and set the constructor, getters, and setters. I then switch to working on the classes that use these objects for their functions. If during the work on these classes, I need to work on the object classes and tweak them then I'll go back. I just like setting the building foundational blocks first. It also helps when coding the function classes that the object that it is using is already in place so that errors are more clear by not being constantly thrown by the lack of an established object class.
 
